@@ -5,7 +5,6 @@
 + Addicted to **Dope Tech** including Digital products, Algorithms, Electric cars, Rockets and Robots
 
 ### :information_desk_person:	 Contact me
-+ Twitter: @iamtonyhe
 + Wechat: @Helipeng_tony
 + Email: tony.hlp@hotmail.com
 
