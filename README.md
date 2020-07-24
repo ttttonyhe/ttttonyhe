@@ -5,10 +5,9 @@
 + Addicted to "Dope Tech" including Digital products, Algorithms, Electric cars, Rockets and Robots
 
 ### :love_letter: Contact me
-+ Telegram: @TonyHLP
 + Twitter: @iamtonyhe
 + Wechat: @Helipeng_tony
 + Email: tony.hlp@hotmail.com
 
 ### :eyes: What to expect
-Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed.
+Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [www.ouorz.com](https://www.ouorz.com) where I share ideas in life. Talk to me if you have any suggestions or questions.
