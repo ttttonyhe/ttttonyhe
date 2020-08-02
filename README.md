@@ -1,5 +1,5 @@
 ### :raising_hand: Who am I
-+ He / Him
++ Tony / Lipeng He / Him
 + A high school graduate from [SHISHI High School](http://cdshishi.net), Chengdu, Sichuan, China
 + Prospective student at the 🏫 [University of Waterloo](https://uwaterloo.ca), 2020 entry, [Mathematics Honours](https://uwaterloo.ca/future-students/programs/mathematics)
 + Interested in changing the world, currently digging in the field of 🖥 **Computer Science**
