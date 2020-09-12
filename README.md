@@ -8,7 +8,7 @@
 ### :information_desk_person:	 Contact me
 + Wechat: @Helipeng_tony
 + Email: tony.hlp@hotmail.com
-+ Tel(Don't): ~~+86 13408697095~~
++ Tel(Don't): ~~+1 443-424-3225~~
 
 ### :no_good: What to expect
 Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [www.ouorz.com](https://www.ouorz.com) where I share ideas in life. Talk to me if you have any questions or suggestions.
