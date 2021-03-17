@@ -11,4 +11,4 @@
 + Looking for Fall 2021 SWE Internship
 
 ### :no_good: What to expect
-Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [www.ouorz.com →](https://www.ouorz.com) or listen to my podcast 🎙️ &nbsp;[Known Unknowns →](https://anchor.fm/the-known-unknowns) where I share ideas in life. Email me if you have any questions or suggestions.
+Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [www.ouorz.com →](https://www.ouorz.com) or listen to my podcast 🎙️ &nbsp;[Known Unknowns →](https://kukfm.com) where I share ideas in life. Email me if you have any questions or suggestions.
