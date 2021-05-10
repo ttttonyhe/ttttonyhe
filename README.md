@@ -3,6 +3,7 @@
 + A blogger, podcaster, student at the 🏫 &nbsp;[University of Waterloo →](https://uwaterloo.ca), Class of 2025, [Honours Mathematics →](https://uwaterloo.ca/future-students/programs/mathematics)
 + Interested in changing the world, currently digging in the field of 🖥 &nbsp;**Computer Science**
 + Addicted to **Dope Tech** including Digital products, Algorithms, Electric cars, AI
++ I am currently building [Snapod](https://twitter.com/Snapodcast), the better independent podcast hosting platform. Join the waitlist at [snapod.ouorz.com](https://snapod.ouorz.com)
 
 ### :information_desk_person:	 Contact me
 + Wechat: @Helipeng_tony
