@@ -10,7 +10,7 @@
 + Email: tony.hlp@hotmail.com
 + LinkedIn: [Lipeng He](https://www.linkedin.com/in/lipenghe)
 + Chinese (Native) / English (Conversational)
-+ Co-op Web Developer @Bitbuy.ca starting Fall 2021
++ Co-op Web Developer @[Bitbuy.ca](https://bitbuy.ca) starting Fall 2021
 
 ### :no_good: What to expect
 Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [www.ouorz.com →](https://www.ouorz.com) or listen to my podcast 🎙️&nbsp;[Known Unknowns →](https://kukfm.com) where I share ideas in life. Email me if you have any questions or suggestions.
