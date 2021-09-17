@@ -9,7 +9,7 @@
 ### :information_desk_person:	How to reach me
 + Email: tony.hlp@hotmail.com
 + LinkedIn: [Lipeng He](https://www.linkedin.com/in/lipenghe)
-+ Chinese (Native) / English (Conversational)
++ Chinese / English
 
 ### :no_good: What to expect
 Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [ouorz.com →](https://www.ouorz.com) or listen to my podcast [Known Unknowns →](https://kukfm.com) (Chinese) where I share ideas in life. Email me if you have any questions or suggestions.
