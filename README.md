@@ -21,5 +21,3 @@
 
 ### :no_good: What to expect
 Most of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [ouorz.com →](https://www.ouorz.com) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (Chinese) where I share ideas in life. Email me if you have any questions or suggestions.
-
----
