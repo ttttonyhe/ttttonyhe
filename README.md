@@ -9,7 +9,7 @@
 + Tony / Lipeng He / Him
 + A blogger, podcaster, student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), Class of 2025, [Honours Mathematics →](https://uwaterloo.ca/future-students/programs/mathematics)
 + Interested in changing the world, currently digging in the field of :computer:&nbsp;**Software Engineering**
-+ Addicted to Dope Tech including Digital products, Algorithms, AR, Autonomous vehicles and Machine learning etc.
++ Addicted to Dope Tech including Digital products, Algorithms, AI, ML and Blockchain technologies etc.
 + Co-op Junior Web Developer @[Bitbuy.ca](https://bitbuy.ca)
 
 
