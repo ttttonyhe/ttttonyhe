@@ -11,6 +11,7 @@
 + Interested in changing the world, currently digging in the field of :computer:&nbsp;**Mathematics and Software Engineering**
 + Addicted to Dope Tech including Digital products, Web 3.0 and blockchain technologies etc.
 + Previously Junior Web Developer (Co-op) @ [Bitbuy.ca →](https://bitbuy.ca)
++ But really just living a meaningless life with unachievable goals
 
 
 ### :information_desk_person:&nbsp; How to reach me
