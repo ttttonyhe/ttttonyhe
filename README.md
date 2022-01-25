@@ -15,8 +15,8 @@
 
 
 ### :information_desk_person:&nbsp; How to reach me
-+ Email: tony.hlp@hotmail.com
-+ LinkedIn: [Lipeng He →](https://www.linkedin.com/in/lipenghe)
++ Email: tony.hlp<sup>(at)</sup>hotmail<sub>(dot)</sub>com
++ Discord: ttttonyhe#1158 / [LinkedIn →](https://www.linkedin.com/in/lipenghe)
 + Chinese / English
 
 
