@@ -1,5 +1,5 @@
-### :building_construction:&nbsp; Currently Building
-[Snapod](https://twitter.com/Snapodcast), a better independent podcast hosting platform. Join the beta waitlist at [snapodcast.com →](https://www.snapodcast.com) and consider giving me an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
+### :building_construction:&nbsp; Actively maintaining
+[Snapod](https://twitter.com/Snapodcast), a better independent podcast hosting platform. Join the waitlist at [snapodcast.com →](https://www.snapodcast.com) and consider giving me an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
 
 <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -9,8 +9,8 @@
 + Tony / Lipeng He / Him
 + A blogger, podcaster, student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), Class of 2025, [Honours Mathematics →](https://uwaterloo.ca/future-students/programs/mathematics)
 + Interested in changing the world, currently digging in the field of :computer:&nbsp;**Mathematics and Software Engineering**
-+ Addicted to Dope Tech including Digital products, Algorithms, ML, DeFi and Blockchain technologies etc.
-+ Co-op Junior Web Developer @ [Bitbuy.ca →](https://bitbuy.ca)
++ Addicted to Dope Tech including Digital products, Web 3.0 and blockchain technologies etc.
++ Previously Junior Web Developer (Co-op) @ [Bitbuy.ca →](https://bitbuy.ca)
 
 
 ### :information_desk_person:&nbsp; How to reach me
