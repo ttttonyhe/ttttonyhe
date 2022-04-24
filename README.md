@@ -1,4 +1,4 @@
-### :building_construction:&nbsp; Actively maintaining
+### :building_construction:&nbsp; Currently Building
 [Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. Join the waitlist at [snapodcast.com →](https://www.snapodcast.com) and consider giving me an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
 
 <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
