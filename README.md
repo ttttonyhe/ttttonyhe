@@ -7,11 +7,10 @@
 
 ### :raising_hand:&nbsp; About me
 + Tony / Lipeng He / Him
-+ A blogger, podcaster, student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), Class of 2025, [Honours Mathematics →](https://uwaterloo.ca/future-students/programs/mathematics)
++ A blogger, podcaster, student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), Class of 2025, [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
 + Interested in changing the world, currently digging in the field of :computer:&nbsp;**Mathematics and Software Engineering**
 + Addicted to Dope Tech including Digital products, Web 3.0 and blockchain technologies etc.
-+ Previously Junior Web Developer (Co-op) @ [Bitbuy.ca →](https://bitbuy.ca)
-+ But really just living a meaningless life with unachievable goals
++ Currently just living a meaningless life with unachievable goals
 
 
 ### :information_desk_person:&nbsp; How to reach me
