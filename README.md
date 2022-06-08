@@ -1,6 +1,8 @@
 ### TL;DR
 meh, just a web dev, your everyday average developer
 
+---
+
 ### :building_construction:&nbsp; Currently Building
 [Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. Join the waitlist at [snapodcast.com →](https://www.snapodcast.com) and consider giving me an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
 
