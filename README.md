@@ -1,5 +1,5 @@
 ### :man_facepalming:&nbsp; TL;DR
-meh, just a web dev, your everyday average developer
+meh, just a web dev, your everyday average developer. Well, for now at least...
 
 ---
 
