@@ -1,3 +1,6 @@
+### TL;DR
+meh, just a web dev, your everyday average developer
+
 ### :building_construction:&nbsp; Currently Building
 [Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. Join the waitlist at [snapodcast.com →](https://www.snapodcast.com) and consider giving me an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
 
@@ -21,5 +24,3 @@
 
 ### :no_good:&nbsp; What to expect
 **Most** of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [ouorz.com →](https://www.ouorz.com) if you want to know more about me (given that you can read Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (given that you speak Chinese) where I share ideas in life. Email me if you have any questions or suggestions. G’day!
-
-meh, just a web dev
