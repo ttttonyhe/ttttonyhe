@@ -4,7 +4,10 @@ meh, just a web dev, your everyday average developer. Well, for now at least...
 ---
 
 ### :building_construction:&nbsp; Currently Building
-[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. Join the waitlist at [snapodcast.com →](https://www.snapodcast.com) and consider giving me an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
+[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform.
++ Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
++ Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
++ Consider giving us an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
 
 <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -15,7 +18,7 @@ meh, just a web dev, your everyday average developer. Well, for now at least...
 + A blogger, podcaster, student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), Class of 2025, [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
 + Interested in changing the world, currently digging in the field of :computer:&nbsp;**Mathematics and Software Engineering**
 + Addicted to productivity tools, Web 3.0 and blockchain technologies etc.
-+ Currently just living a meaningless life with unachievable goals
++ Currently just living a meaningless life with unachievable goals... :)
 
 
 ### :information_desk_person:&nbsp; How to reach me
