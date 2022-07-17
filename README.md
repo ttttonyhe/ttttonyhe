@@ -7,7 +7,7 @@ meh, just a web dev, your everyday average developer. Well, for now at least...
 [Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform.
 + Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
 + Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
-+ Consider giving us an upvote on [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) (for the algorithm :)
++ Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page
 
 <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
