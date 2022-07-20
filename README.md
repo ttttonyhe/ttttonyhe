@@ -4,7 +4,7 @@ meh, just a web dev, your everyday average developer. Well, for now at least...
 ---
 
 ### :building_construction:&nbsp; Currently Building
-[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform.
+[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. (In the process of transforming into a Web 3.0 App :rocket:)
 + Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
 + Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
 + Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page
