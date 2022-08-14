@@ -1,10 +1,5 @@
-### :man_facepalming:&nbsp; TL;DR
-meh, just a web dev, your everyday average developer. Well, for now at least...
-
----
-
-### :building_construction:&nbsp; Currently Building
-[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. (In the process of transforming into a Web 3.0 App :rocket:)
+### :building_construction:&nbsp; Latest Project
+[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. (Soon to be a Web 3.0 dApp :rocket:)
 + Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
 + Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
 + Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page
@@ -29,4 +24,4 @@ meh, just a web dev, your everyday average developer. Well, for now at least...
 
 
 ### :no_good:&nbsp; What to expect
-**Most** of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [ouorz.com →](https://www.ouorz.com) if you want to know more about me (given that you can read Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (given that you speak Chinese) where I share ideas in life. Email me if you have any questions or suggestions. G’day!
+**Most** of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [ouorz.com →](https://www.ouorz.com) if you want to know more about me (given that you can read Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (given that you speak Chinese) where I share random ideas in life. Email me if you have any questions or suggestions. G’day.
