@@ -10,10 +10,9 @@
 
 ### :raising_hand:&nbsp; About me
 + Tony / Lipeng He / Him
-+ A blogger, podcaster, student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), Class of 2025, [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
-+ Interested in changing the world, currently digging in the field of :computer:&nbsp;**Mathematics and Software Engineering**
-+ Addicted to productivity tools, Web 3.0 and blockchain technologies etc.
-+ Currently just living a meaningless life with unachievable goals... :)
++ Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
++ Interested in changing the world, currently digging in the field of :computer:&nbsp;**Computer Science and Mathematics**
++ Addicted to productivity tools, crypto(graphy), algorithms and distributed systems etc.
 
 
 ### :information_desk_person:&nbsp; How to reach me
