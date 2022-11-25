@@ -1,4 +1,4 @@
-### :building_construction:&nbsp; Latest Project
+### :building_construction:&nbsp; Latest Project (moving on from this soon)
 [Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. (Soon to be a Web 3.0 dApp :rocket:)
 + Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
 + Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
@@ -11,15 +11,16 @@
 ### :raising_hand:&nbsp; About me
 + Tony / Lipeng He / Him
 + Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
-+ Interested in changing the world, currently digging in the field of :computer:&nbsp;**Computer Science and Mathematics**
++ Interested in changing the world, currently digging in the field of :computer:&nbsp;**Mathematics and Computer Science**
 + Addicted to productivity tools, crypto(graphy), algorithms and distributed systems etc.
++ Recently developed a strong interest in applied cryptography and information security
 
 
 ### :information_desk_person:&nbsp; How to reach me
-+ ENS: [ttttonyhe.eth →](https://app.ens.domains/address/0x8FE6fE9EC2a34D9e77Cdfeb5B2eaab5DfD8C2542)
 + Email: tony.hlp<sup>(at)</sup>hotmail<sub>(dot)</sub>com
++ ENS: [ttttonyhe.eth →](https://app.ens.domains/address/0x8FE6fE9EC2a34D9e77Cdfeb5B2eaab5DfD8C2542)
 + Discord: ttttonyhe#6087 / [LinkedIn →](https://www.linkedin.com/in/lipenghe)
-+ Chinese / English
++ Language spoken: Chinese / English
 
 
 ### :no_good:&nbsp; What to expect
