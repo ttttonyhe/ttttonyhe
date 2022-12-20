@@ -1,5 +1,5 @@
 ### :building_construction:&nbsp; Latest Project (moving on from this soon)
-[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform. (Soon to be a Web 3.0 dApp :rocket:)
+[Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform.
 + Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
 + Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
 + Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page
