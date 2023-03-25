@@ -25,3 +25,7 @@
 
 ### :no_good:&nbsp; What to expect
 **Most** of my projects are open-srouce, check them out down below. File an issue whenever needed, pull requests are always welcomed. Visit my blog at [ouorz.com →](https://www.ouorz.com) if you want to learn more about me (given that you can read Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (given that you speak Chinese) where I share random ideas in life. Email me if you have any questions or suggestions. G’day.
+
+<br/>
+
+> …the way to get to the top of the heap in terms of developing original research is to be a fool, because only fools keep trying.  You have idea number 1, you get excited, and it flops.  The you have idea number 2, you get excited, and it flops.  Then you have idea number 99, you get excited, and it flops.  Only a fool would be excited by the 100th idea, but it might take 100 ideas before one really pays off.  Unless you’re foolish enough to be continually excited, you won’t have the motivation, you won’t have the energy to carry it through.  God rewards fools.
