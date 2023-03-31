@@ -12,7 +12,7 @@
 + Tony / Lipeng He / Him
 + Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
 + Interested in changing the world, currently exploring the field of :computer:&nbsp;**Mathematics and Computer Science**
-+ Addicted to productivity tools, crypto(graphy), algorithms and computers, occasionally art & poetry etc.
++ Addicted to productivity tools, crypto(graphy), algorithms and computers, occasionally art & poetry
 + Recently developed a strong interest in applied cryptography, distributed systems and computer security
 
 
@@ -28,6 +28,8 @@
 
 <br/>
 
-> …the way to get to the top of the heap in terms of developing original research is to be a fool, because only fools keep trying.  You have idea number 1, you get excited, and it flops.  The you have idea number 2, you get excited, and it flops.  Then you have idea number 99, you get excited, and it flops.  Only a fool would be excited by the 100th idea, but it might take 100 ideas before one really pays off.  Unless you’re foolish enough to be continually excited, you won’t have the motivation, you won’t have the energy to carry it through.
+> …the way to get to the top of the heap in terms of developing original research is to be a fool, because only fools keep trying.
+> 
+> You have idea number 1, you get excited, and it flops.  The you have idea number 2, you get excited, and it flops.  Then you have idea number 99, you get excited, and it flops.  Only a fool would be excited by the 100th idea, but it might take 100 ideas before one really pays off.  Unless you’re foolish enough to be continually excited, you won’t have the motivation, you won’t have the energy to carry it through.
 > 
 > God rewards fools.
