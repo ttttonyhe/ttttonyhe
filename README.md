@@ -13,7 +13,7 @@
 + Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
 + Interested in changing the world, currently exploring the field of :computer:&nbsp;**Mathematics and Computer Science**
 + Addicted to productivity tools, crypto(graphy), algorithms and computers, occasionally art & poetry
-+ Recently developed a strong interest in applied cryptography, distributed systems and computer security
++ Recently developed a strong interest in applied cryptography, blockchain and computer security
 
 
 ### :information_desk_person:&nbsp; How to reach me
