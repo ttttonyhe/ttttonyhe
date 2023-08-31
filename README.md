@@ -28,6 +28,6 @@
 
 <br/>
 
-> You have idea number 1, you get excited, and it flops. The you have idea number 2, you get excited, and it flops. Then you have idea number 99, you get excited, and it flops. Only a fool would be excited by the 100th idea, but it might take 100 ideas before one really pays off. Unless you’re foolish enough to be continually excited, you won’t have the motivation, you won’t have the energy to carry it through.
+> Any improvements made anywhere besides the bottleneck are an illusion.
 > 
-> God rewards fools.
+> —— The Theory of Constraints
