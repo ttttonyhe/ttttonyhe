@@ -28,5 +28,6 @@
 
 <br/>
 
-> Any improvements made anywhere besides the *bottleneck* are an illusion.
-> —— The Theory of Constraints
+> Solving a problem simply means representing it so as to make the solution transparent.
+> 
+> —— Herbert Simon, *Sciences of the Artificial*
