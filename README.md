@@ -28,6 +28,4 @@
 
 <br/>
 
-> Solving a problem simply means representing it so as to make the solution transparent.
-> 
-> —— Herbert Simon, *Sciences of the Artificial*
+> We all fear death and question our place in the universe. The artist's job is not to succumb to despair, but to find an antidote for the emptiness of existence.
