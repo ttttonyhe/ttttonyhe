@@ -30,4 +30,6 @@ I'm in pursuit of the ultimate question of everything.
 
 <br/>
 
-> We all fear death and question our place in the universe. The artist's job is not to succumb to despair, but to find an antidote for the emptiness of existence.
+> Any improvements made anywhere besides the bottleneck are an illusion
+> 
+> —— *The Theory of Constraints*
