@@ -29,5 +29,5 @@
 
 <br/>
 
-> Any improvements made anywhere besides the bottleneck are an illusion
+> Any improvements made anywhere besides the bottleneck are an illusion.
 > —— *The Theory of Constraints*
