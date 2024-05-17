@@ -1,6 +1,6 @@
 ### :building_construction:&nbsp; Latest Projects
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile
-- 🎙️ [Snapod](https://twitter.com/Snapodcast), an independent podcast hosting platform.
+- 🎓 [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile
+- 🎙️ [Snapod →](https://twitter.com/Snapodcast), an independent podcast hosting platform.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
   - Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
   - Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page
@@ -14,7 +14,7 @@
 - Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in [Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)
 - Interested in changing the world, currently exploring the field of :computer:&nbsp;**Mathematics and Computer Science**
 - Addicted to productivity tools, crypto(graphy), algorithms and computers, occasionally art & poetry
-- Recently developed a strong interest in applied cryptography, blockchain and computer security
+- In addition to software development, I do academic research on Applied Cryptography and Computer Security & Privacy
 
 
 ### :information_desk_person:&nbsp; How to reach me
