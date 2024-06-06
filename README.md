@@ -19,7 +19,7 @@
 
 ### :information_desk_person:&nbsp; How to reach me
 - Email: tony.hlp<sup>(at)</sup>hotmail<sub>(dot)</sub>com
-- ENS: [ttttonyhe.eth →](https://app.ens.domains/address/0x8FE6fE9EC2a34D9e77Cdfeb5B2eaab5DfD8C2542)
+- ENS: [ttttonyhe.eth →](https://app.ens.domains/ttttonyhe.eth)
 - LinkedIn: [~lhe →](https://www.linkedin.com/in/~lhe)
 - Languages: Mandarin / English
 
