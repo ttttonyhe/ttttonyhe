@@ -14,7 +14,7 @@
 - Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization))
 - Interested in changing the world, currently exploring the field of :computer:&nbsp;**Mathematics and Computer Science**
 - Addicted to productivity tools, crypto(graphy), algorithms and computers, occasionally art & poetry
-- In addition to software development, I do academic research on Applied Cryptography and Computer Security & Privacy
+- In addition to software development, I do academic research on Privacy-preserving Computing and Applied Cryptography
 
 
 ### :information_desk_person:&nbsp; How to reach me
