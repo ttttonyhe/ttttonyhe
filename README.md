@@ -1,6 +1,7 @@
 ### :building_construction:&nbsp; Latest Projects
-- 🎓 [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile
-- 🎙️ [Snapod →](https://www.snapodcast.com), an independent podcast hosting platform.
+- :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile
+- :dna: [Nexus →](https://github.com/Kevin-Zh-CS/NEXUS), the first non-interactive protocol for secure transformer inference.
+- :studio_microphone: [Snapod →](https://www.snapodcast.com), an independent podcast hosting platform.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
   - Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
   - Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page
