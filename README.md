@@ -1,6 +1,7 @@
 ### :building_construction:&nbsp; Latest Projects
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile
-- :dna: [Nexus →](https://github.com/Kevin-Zh-CS/NEXUS), the first non-interactive protocol for secure transformer inference.
+- :dna: [Nexus →](https://github.com/zju-abclab/NEXUS), the first non-interactive protocol for secure transformer inference.
+- :eyes: [LookAhead →](https://arxiv.org/abs/2401.07261), a new direction for detecting DeFi attacks.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), an independent podcast hosting platform.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com)
   - Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions)
