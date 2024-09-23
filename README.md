@@ -15,7 +15,7 @@
 - Tony / Lipeng He / Him
 - Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization))
 - Interested in changing the world, currently exploring the field of :computer:&nbsp;**Mathematics and Computer Science**
-- Addicted to productivity tools, crypto(graphy), algorithms and computers, occasionally art & poetry
+- Addicted to productivity tools, crypto(graphy), algorithms and Artificial Intelligence, occasionally art & poetry
 - In addition to software development, I'm also interested in academic research related to Privacy-preserving Computing and Applied Cryptography
 
 
