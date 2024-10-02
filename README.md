@@ -1,4 +1,4 @@
-### :building_construction:&nbsp; Latest Projects
+### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile
 - :dna: [Nexus →](https://github.com/zju-abclab/NEXUS), the first non-interactive protocol for secure transformer inference.
 - :eyes: [LookAhead →](https://arxiv.org/abs/2401.07261), a new direction for detecting DeFi attacks.
@@ -14,22 +14,31 @@
 ### :raising_hand:&nbsp; About me
 - Tony / Lipeng He / Him
 - Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization))
-- Interested in changing the world, currently exploring the field of :computer:&nbsp;**Mathematics and Computer Science**
+- Interested in changing the world, currently exploring in the field of :computer:&nbsp;**Mathematics and Computer Science**
 - Addicted to productivity tools, crypto(graphy), algorithms and Artificial Intelligence, occasionally art & poetry
 - In addition to software development, I'm also interested in academic research related to Privacy-preserving Computing and Applied Cryptography
 
 
 ### :information_desk_person:&nbsp; How to reach me
-- Email: tony.hlp<sup>(at)</sup>hotmail<sub>(dot)</sub>com
-- ENS: [ttttonyhe.eth →](https://app.ens.domains/ttttonyhe.eth)
+- Email: he<sup>(at)</sup>lipeng<sub>(dot)</sub>ac
 - LinkedIn: [~lhe →](https://www.linkedin.com/in/~lhe)
+- ENS: [ttttonyhe.eth →](https://app.ens.domains/ttttonyhe.eth)
 - Languages: Mandarin / English
 
 
 ### :no_good:&nbsp; What to expect
-- **Most** of my projects are open-srouce, check them out down below. File an issue whenever you deem needed, pull requests are always welcomed. Visit my blog at [ouorz.com →](https://www.ouorz.com) if you want to learn more about me (if you can read *Simplified* Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (if you speak Mandarin) where I share random ideas in life. Email me if you have any questions or suggestions. G’day.
+- **Most** of my projects are open-srouce, check them out down below. File an issue whenever you deem needed, pull requests are always welcomed. Visit my blog at [lipeng.ac →](https://lipeng.ac) if you want to learn more about me (if you can read *Simplified* Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (if you speak Mandarin) where I share random ideas in life. Email me if you have any questions or suggestions. G’day.
 
 <br/>
 
 > Any improvements made anywhere besides the bottleneck are an illusion.
 > —— *The Theory of Constraints*
+
+---
+
+### :building_construction:&nbsp; Latest Projects
+- [Stader Analytics Dashboard →](https://github.com/ttttonyhe/stader-graph-dashboard)
+- [OpenAI Sentence Generator →](https://github.com/ttttonyhe/openai-sentence-generator)
+- [Snapaper →](https://github.com/Snapaper)
+- [ODraw →](https://github.com/ttttonyhe/odraw)
+- [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
