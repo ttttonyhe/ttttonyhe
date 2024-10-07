@@ -16,7 +16,7 @@
 - Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization))
 - Interested in changing the world, currently exploring in the field of :computer:&nbsp;**Mathematics and Computer Science**
 - Addicted to productivity tools, crypto(graphy), algorithms and Artificial Intelligence, occasionally art & poetry
-- In addition to software development, I'm also interested in academic research related to Privacy-preserving Computing and Applied Cryptography
+- In addition to software engineering, I'm also interested in academic research related to both the theoretical & applied aspects of cryptography and its applications throughout and beyond computing & data sciences.
 
 
 ### :information_desk_person:&nbsp; How to reach me
@@ -27,7 +27,7 @@
 
 
 ### :no_good:&nbsp; What to expect
-- **Most** of my projects are open-srouce, check them out down below. File an issue whenever you deem needed, pull requests are always welcomed. Visit my blog at [lipeng.ac →](https://lipeng.ac) if you want to learn more about me (if you can read *Simplified* Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (if you speak Mandarin) where I share random ideas in life. Email me if you have any questions or suggestions. G’day.
+- **Most** of my projects are open-srouce, check them out down below. File an issue whenever you deem needed, pull requests are always welcomed. Visit my academic profile / blog at [lipeng.ac →](https://lipeng.ac) if you want to learn more about me and my academic work (I usually blog in *Simplified* Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (in Mandarin, and rarely updates) where I share random ideas in life. Drop me and email if you have any questions or suggestions. G’day.
 
 <br/>
 
