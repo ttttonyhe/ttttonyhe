@@ -15,7 +15,10 @@
 - Tony / Lipeng He / Him
 - Student researcher / Full Stack Software Engineer
 - I'm currently an undergrad at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization))
-- Here are some of the things I enjoy, which could tell you a lot about me: productivity tools, computer algorithms and architectures (ML, Blockchain, etc.); crypto(graphy), elegant solutions to complex problems; classical music and jazz, occasionally art & poetry
+- Here are some of the things I enjoy, which could tell you a lot about me:
+  - Productivity tools, computer algorithms and architectures (ML, Blockchain, etc.);
+  - Crypto(graphy), elegant solutions to complex problems;
+  - Classical music and jazz, occasionally art & poetry
 - My research interests span both the theoretical & applied aspects of cryptography and its applications throughout and beyond computing & data sciences.
 
 
