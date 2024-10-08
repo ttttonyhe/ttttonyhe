@@ -13,10 +13,10 @@
 
 ### :raising_hand:&nbsp; About me
 - Tony / Lipeng He / Him
-- Undergraudate student at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization))
-- Interested in changing the world, currently exploring in the field of :computer:&nbsp;**Mathematics and Computer Science**
-- Addicted to productivity tools, crypto(graphy), algorithms and Artificial Intelligence, occasionally art & poetry
-- In addition to software engineering, I'm also interested in academic research related to both the theoretical & applied aspects of cryptography and its applications throughout and beyond computing & data sciences.
+- Student researcher / Full Stack Software Engineer
+- I'm currently an undergrad at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization))
+- Here are some of the things I enjoy, which could tell you a lot about me: productivity tools, computer algorithms and architectures (ML, Blockchain, etc.); crypto(graphy), elegant solutions to complex problems; classical music and jazz, occasionally art & poetry
+- My research interests span both the theoretical & applied aspects of cryptography and its applications throughout and beyond computing & data sciences.
 
 
 ### :information_desk_person:&nbsp; How to reach me
