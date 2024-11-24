@@ -13,7 +13,7 @@
 
 ### :raising_hand:&nbsp; About me
 - Tony / Lipeng He / Him.
-- Student Researcher / Full Stack Software Engineer.
+- Student Researcher / Software Engineer.
 - I'm currently an undergrad at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)).
 - My research interests span both the theoretical & applied aspects of cryptography and their applications throughout and beyond computing & data sciences.
 
