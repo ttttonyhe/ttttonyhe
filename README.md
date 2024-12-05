@@ -1,11 +1,10 @@
 ### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
-- :dna: [Nexus →](https://github.com/zju-abclab/NEXUS), the first non-interactive protocol for secure transformer inference.
-- :eyes: [LookAhead →](https://arxiv.org/abs/2401.07261), a new direction for detecting DeFi attacks.
-- :studio_microphone: [Snapod →](https://www.snapodcast.com), an independent podcast hosting platform.
+- :studio_microphone: [Snapod →](https://www.snapodcast.com), next-generation independent podcast hosting platform.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
   - Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions).
   - Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page.
+  - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
 
   <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
