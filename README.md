@@ -20,7 +20,6 @@
 ### :information_desk_person:&nbsp; How to reach me
 - Email: he<sup>(at)</sup>lipeng<sub>(dot)</sub>ac.
 - LinkedIn: [~lhe →](https://www.linkedin.com/in/~lhe).
-- ENS: [ttttonyhe.eth →](https://app.ens.domains/ttttonyhe.eth).
 - Languages: Mandarin / English.
 
 
