@@ -28,9 +28,6 @@
 
 <br/>
 
-> Any improvements made anywhere besides the bottleneck are an illusion.
-> —— *The Theory of Constraints*
-
 ---
 
 ### :building_construction:&nbsp; Latest Projects
