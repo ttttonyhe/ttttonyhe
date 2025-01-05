@@ -26,8 +26,6 @@
 ### :no_good:&nbsp; What to expect
 - **Most** of my projects are open-srouce, check them out down below. File an issue whenever you deem needed, pull requests are always welcomed. Visit my academic profile / blog at [lipeng.ac →](https://lipeng.ac) if you want to learn more about me and my academic work (I usually blog in *Simplified* Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (in Mandarin, and rarely updates) where I share random ideas in life. Drop me and email if you have any questions or suggestions. G’day.
 
-<br/>
-
 ---
 
 ### :building_construction:&nbsp; Latest Projects
