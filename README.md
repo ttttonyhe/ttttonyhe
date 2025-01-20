@@ -14,7 +14,7 @@
 - Tony / Lipeng He / Him.
 - Student Researcher / Software Engineer.
 - I'm currently an undergrad at the :school:&nbsp;[University of Waterloo →](https://uwaterloo.ca), majoring in Mathematics ([Combinatorics and Optimization →](https://uwaterloo.ca/combinatorics-and-optimization)).
-- My research interests span both the theoretical & applied aspects of cryptography and their applications throughout and beyond computing & data sciences.
+- My research interests span Computer Security and the Theory & Applications of Cryptography (especially across computing and data sciences).
 
 
 ### :information_desk_person:&nbsp; How to reach me
