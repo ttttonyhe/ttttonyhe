@@ -29,4 +29,4 @@
 ---
 
 ### :building_construction:&nbsp; Latest Projects
-[LookAhead →](https://arxiv.org/abs/2401.07261) | [NEXUS →](https://github.com/zju-abclab/NEXUS) | [Stader Analytics Dashboard →](https://github.com/ttttonyhe/stader-graph-dashboard) | [OpenAI Sentence Generator →](https://github.com/ttttonyhe/openai-sentence-generator) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
+[LookAhead →](https://github.com/zju-abclab/LookAhead) | [NEXUS →](https://github.com/zju-abclab/NEXUS) | [Stader Analytics Dashboard →](https://github.com/ttttonyhe/stader-graph-dashboard) | [OpenAI Sentence Generator →](https://github.com/ttttonyhe/openai-sentence-generator) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
