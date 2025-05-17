@@ -1,8 +1,8 @@
 ### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
+- :briefcase: [Ezra →](https://ezrahire.com), building agents to automate hiring with real-world tasks and AI-native skill assessments — helping teams hire faster, smarter, and with zero resume screening.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), next-generation independent podcast hosting platform.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
-  - Join the [Snapod community →](https://github.com/orgs/Snapodcast/discussions).
   - Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page.
   - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
 
