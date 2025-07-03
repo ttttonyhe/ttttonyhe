@@ -1,6 +1,6 @@
 ### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
-- :briefcase: [Ezra →](https://ezrahire.com), agentic AI and data platform solutions for better talent acquisition and candidate-opportunity match.
+- :briefcase: [Bluelet →](https://ezrahire.com), agentic AI and data platform solutions for better talent acquisition and candidate-opportunity match.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), all-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
   - Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page.
