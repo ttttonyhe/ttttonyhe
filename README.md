@@ -11,7 +11,7 @@
 
 ### :raising_hand:&nbsp; About me
 - Tony / Lipeng He / Him.
-- Researcher / Software Engineer.
+- Researcher / Software Engineer / Startup Founder
 - I'm currently pursuing a Master's (Research) degree in Computer Science at the [University of Waterloo →](https://uwaterloo.ca), where I previously obtained an honours bachelor's degree in Mathematics.
 - My research interests span computer security and the theory & applications of cryptography (especially its role across machine learning and data sciences).
 
