@@ -13,17 +13,16 @@
 - Tony / Lipeng He / Him.
 - Researcher / Software Engineer / Startup Founder
 - I'm currently pursuing a Master's (Research) degree in Computer Science at the [University of Waterloo →](https://uwaterloo.ca), where I previously obtained an honours bachelor's degree in Mathematics.
-- My research interests span computer security and the theory & applications of cryptography (especially its role across machine learning and data sciences).
+- My research focuses on Trustworthy ML, with an emphasis on the *adversarial robustness* of [Large Language Models (LLMs)](https://genai.owasp.org/llm-top-10), and the *security & privacy* of modern AI systems. I develop effective and efficient *adversarial attacks*, as well as *principled defenses*, drawing on applied cryptography, theoretical machine learning, and computer security to characterize and mitigate emerging threats.
 
 
 ### :information_desk_person:&nbsp; How to reach me
-- Email: he<sup>(at)</sup>lipeng<sub>(dot)</sub>ac.
+- Email: lipeng.he<sup>(at)</sup>uwaterloo<sub>(dot)</sub>ca.
 - LinkedIn: [~lhe →](https://www.linkedin.com/in/~lhe).
-- Languages: Mandarin / English.
 
 
 ### :no_good:&nbsp; What to expect
-- **Most** of my projects are open-srouce, check them out down below. File an issue whenever you deem needed, pull requests are always welcomed. Visit my academic profile / blog at [lipeng.ac →](https://lipeng.ac) if you want to learn more about me and my academic work (I usually blog in *Simplified* Chinese) or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (in Mandarin, and rarely updates) where I share random ideas in life. Drop me and email if you have any questions or suggestions. G’day.
+- **Most** of my projects are open-srouce, check them out down below. File an issue whenever you deem needed, pull requests are always welcomed. Visit my academic profile / blog at [lipeng.ac →](https://lipeng.ac) if you want to learn more about me and my academic work or listen to my podcast :studio_microphone:&nbsp;[Known Unknowns →](https://kukfm.com) (in Mandarin, and rarely updates) where I share random ideas in life. Drop me and email if you have any questions or suggestions. G’day.
 
 ---
 
