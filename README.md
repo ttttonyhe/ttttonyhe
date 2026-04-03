@@ -1,8 +1,9 @@
 ### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
+- :fist: [Autogrind →](https://github.com/ttttonyhe/autogrind), 24x7 auto-work mode for your agents.
+- :waning_crescent_moon: [Lune Research →](https://luneresearch.com), AI-native agile research workspace.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), all-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
-  - Take a look at our [Product Hunt →](https://www.producthunt.com/posts/snapod-beta) page.
   - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
 
   <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
