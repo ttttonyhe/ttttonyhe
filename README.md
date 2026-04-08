@@ -28,4 +28,4 @@
 ---
 
 ### :building_construction:&nbsp; Latest Projects
-[LookAhead →](https://github.com/zju-abclab/LookAhead) | [NEXUS →](https://github.com/zju-abclab/NEXUS) | [Stader Analytics Dashboard →](https://github.com/ttttonyhe/stader-graph-dashboard) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
+[Locket →](https://github.com/ssg-research/locket) | [LookAhead →](https://github.com/zju-abclab/LookAhead) | [NEXUS →](https://github.com/zju-abclab/NEXUS) | [Stader Analytics Dashboard →](https://github.com/ttttonyhe/stader-graph-dashboard) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
