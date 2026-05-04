@@ -1,7 +1,8 @@
 ### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
+- :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure AI guardrails.
+- :microscope: [Lune Research →](https://luneresearch.com), Scientific research tools for AI agents.
 - :fist: [Autogrind →](https://github.com/ttttonyhe/autogrind), 24x7 auto-work mode for your agents.
-- :waning_crescent_moon: [Lune Research →](https://luneresearch.com), AI-native agile research workspace.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), all-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
   - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
