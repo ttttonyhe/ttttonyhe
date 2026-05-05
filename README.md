@@ -3,7 +3,7 @@
 - :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure AI guardrails.
 - :microscope: [Lune Research →](https://luneresearch.com), Scientific research knowledge + tools for AI agents.
 - :fist: [Autogrind →](https://github.com/ttttonyhe/autogrind), 24x7 auto-work mode for your agents.
-- :studio_microphone: [Snapod →](https://www.snapodcast.com), all-in-one platform-as-a-service for podcasters.
+- :studio_microphone: [Snapod →](https://www.snapodcast.com), All-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
   - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
 
@@ -15,7 +15,7 @@
 - Tony / Lipeng He / Him.
 - Researcher / Software Engineer / Startup Founder
 - I'm currently pursuing a Master's (Research) degree in Computer Science at the [University of Waterloo →](https://uwaterloo.ca), where I previously obtained an honours bachelor's degree in Mathematics.
-- My research focuses on Trustworthy ML, with an emphasis on the *adversarial robustness* of [Large Language Models (LLMs)](https://genai.owasp.org/llm-top-10), and the *security & privacy* of modern AI systems. I develop effective and efficient *adversarial attacks*, as well as *principled defenses*, drawing on applied cryptography, theoretical machine learning, and computer security to characterize and mitigate emerging threats.
+- My research focuses on Trustworthy ML, with an emphasis on the *adversarial robustness* of [Large Language Models (LLMs)](https://genai.owasp.org/llm-top-10), and the *security & privacy* of agentic AI systems. I develop effective and efficient *adversarial attacks*, as well as *principled defenses*, drawing on applied cryptography, theoretical machine learning, and systems security to characterize and mitigate emerging threats.
 
 
 ### :information_desk_person:&nbsp; How to reach me
