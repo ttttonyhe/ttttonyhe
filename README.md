@@ -1,7 +1,8 @@
 ### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
-- :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure AI guardrails.
 - :microscope: [Lune Research →](https://luneresearch.com), Scientific research knowledge + tools for AI agents.
+- :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure AI guardrails.
+- :closed_lock_with_key: [Locket →](https://github.com/ssg-research/locket), Robust feature-level access control for LLMs.
 - :fist: [Autogrind →](https://github.com/ttttonyhe/autogrind), 24x7 auto-work mode for your agents.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), All-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
@@ -29,4 +30,4 @@
 ---
 
 ### :building_construction:&nbsp; Latest Projects
-[Locket →](https://github.com/ssg-research/locket) | [LookAhead →](https://github.com/zju-abclab/LookAhead) | [NEXUS →](https://github.com/zju-abclab/NEXUS) | [Stader Analytics Dashboard →](https://github.com/ttttonyhe/stader-graph-dashboard) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
+[LookAhead →](https://github.com/zju-abclab/LookAhead) | [NEXUS →](https://github.com/zju-abclab/NEXUS) | [Stader Analytics Dashboard →](https://github.com/ttttonyhe/stader-graph-dashboard) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
