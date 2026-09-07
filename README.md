@@ -15,7 +15,7 @@
 ### :raising_hand:&nbsp; About
 - Tony / Lipeng He / Him.
 - Researcher / Software Engineer / Startup Founder
-- I'm currently pursuing a Master's (Research) degree in Computer Science at the [University of Waterloo →](https://uwaterloo.ca), where I previously obtained an honours bachelor's degree in Mathematics.
+- I'm currently a Computer Science PhD student at the [University of Waterloo →](https://uwaterloo.ca), where I previously obtained an honours bachelor's degree in Mathematics.
 - My research focuses on Trustworthy ML, with an emphasis on the *adversarial robustness* of [Large Language Models (LLMs)](https://genai.owasp.org/llm-top-10), and the *security & privacy* of agentic AI systems. I develop effective and efficient *adversarial attacks*, as well as *principled defenses*, drawing on applied cryptography, theoretical machine learning, and systems security to characterize and mitigate emerging threats.
 
 
