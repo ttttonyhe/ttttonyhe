@@ -1,20 +1,25 @@
 ### :sparkles:&nbsp; Featured
+Academic Research
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
+- :closed_lock_with_key: [Locket →](https://github.com/ssg-research/locket), Robust feature-level access control for LLMs.
+
+Start-up Building
 - :microscope: [Lune →](https://luneresearch.com), Trustworthy AI for scientific research.
 - :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure enterprise AI guardrails.
-- :closed_lock_with_key: [Locket →](https://github.com/ssg-research/locket), Robust feature-level access control for LLMs.
+
+Software Engineering
 - :fist: [Autogrind →](https://github.com/ttttonyhe/autogrind), 24x7 auto-work mode for your agents.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), All-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
   - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
-
+    
   <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ---
 
 ### :raising_hand:&nbsp; About
 - Tony / Lipeng He / Him.
-- Researcher / Software Engineer / Startup Founder
+- Research / Software Engineering / Startup
 - I'm currently a Computer Science PhD student at the [University of Waterloo →](https://uwaterloo.ca), where I previously obtained an honours bachelor's degree in Mathematics.
 - My research focuses on Trustworthy ML, with an emphasis on the *adversarial robustness* of [Large Language Models (LLMs)](https://genai.owasp.org/llm-top-10), and the *security & privacy* of agentic AI systems. I develop effective and efficient *adversarial attacks*, as well as *principled defenses*, drawing on applied cryptography, theoretical machine learning, and systems security to characterize and mitigate emerging threats.
 
