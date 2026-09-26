@@ -1,13 +1,8 @@
 ### :sparkles:&nbsp; Featured
-Academic Research
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
 - :closed_lock_with_key: [Locket →](https://github.com/ssg-research/locket), Robust feature-level access control for LLMs.
-
-Start-up Building
-- :microscope: [Lune →](https://luneresearch.com), Trustworthy AI for scientific research.
+- :microscope: [Lune Research →](https://luneresearch.com), Trustworthy AI for scientific research.
 - :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure enterprise AI guardrails.
-
-Software Engineering
 - :fist: [Autogrind →](https://github.com/ttttonyhe/autogrind), 24x7 auto-work mode for your agents.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), All-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
