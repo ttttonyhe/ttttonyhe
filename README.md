@@ -8,7 +8,7 @@
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
   - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
     
-  <a href="https://www.producthunt.com/posts/snapod-beta?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-snapod-beta" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&theme=light" alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+  <a href="https://www.producthunt.com/products/lune-research?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-lune-4" target="_blank" rel="noopener noreferrer"><img alt="Lune - The search engine built for scientific AI agents | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1275490&amp;theme=light&amp;t=1791660006920"></a> <a href="https://www.producthunt.com/products/snapod-beta/launches/snapod-beta?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-snapod-beta" target="_blank" rel="noopener noreferrer"><img alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&amp;theme=neutral&amp;t=1791660038928"></a>
 
 ---
 
