@@ -3,6 +3,7 @@
 - :closed_lock_with_key: [Locket →](https://github.com/ssg-research/locket), Robust feature-level access control for LLMs.
 - :microscope: [Lune Research →](https://luneresearch.com), Trustworthy AI for scientific research.
 - :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure enterprise AI guardrails.
+- :balance_scale: [ProChoice →](https://prochoice.industries), No nonsense LLM benchmarks & rankings.
 - :studio_microphone: [Snapod →](https://www.snapodcast.com), All-in-one platform-as-a-service for podcasters.
   - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
   - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
