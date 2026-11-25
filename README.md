@@ -1,12 +1,12 @@
 ### :sparkles:&nbsp; Featured
 - :mortar_board: [Google Scholar →](https://scholar.google.com/citations?user=6yFlE_sAAAAJ) profile.
 - :closed_lock_with_key: [Locket →](https://github.com/ssg-research/locket), Robust feature-level access control for LLMs.
-- :microscope: [Lune Research →](https://luneresearch.com), Trustworthy AI for scientific research.
+- :brain: [Nexus →](https://github.com/zju-abclab/NEXUS), Private LLM inference via fully homomorphic encryption.
+- :coin: [Lookahead →](https://github.com/zju-abclab/LookAhead), Adversarial EVM smart contract classifier.
+- :microscope: [Lune Research →](https://luneresearch.com), Trustworthy knowledge grounding for computer science research.
 - :waning_crescent_moon: [Retroguard →](https://retroguard.ai), Verifiably secure enterprise AI guardrails.
-- :balance_scale: [ProChoice →](https://prochoice.industries), No nonsense LLM benchmarks & rankings.
-- :studio_microphone: [Snapod →](https://www.snapodcast.com), All-in-one platform-as-a-service for podcasters.
-  - Join the waitlist at [snapodcast.com →](https://www.snapodcast.com).
-  - This project has recently been open-soruced, [see repositories →](https://github.com/Snapodcast).
+- :balance_scale: [ProChoice →](https://prochoice.industries), Private/live, contamination-free LLM benchmark indexes.
+- :studio_microphone: [Snapod →](https://www.snapodcast.com), Platform-as-a-service for independent podcasters.
     
   <a href="https://www.producthunt.com/products/lune-research?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-lune-4" target="_blank" rel="noopener noreferrer"><img alt="Lune - The search engine built for scientific AI agents | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1275490&amp;theme=light&amp;t=1791660006920"></a> <a href="https://www.producthunt.com/products/snapod-beta/launches/snapod-beta?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-snapod-beta" target="_blank" rel="noopener noreferrer"><img alt="Snapod Beta - A better independent podcast hosting platform | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=295290&amp;theme=neutral&amp;t=1791660038928"></a>
 
@@ -30,4 +30,4 @@
 ---
 
 ### :building_construction:&nbsp; Latest Projects
-[Tailspace →](https://github.com/ttttonyhe/tailspace) | [Autogrind →](https://github.com/ttttonyhe/autogrind) | [Scholar Highlights →](https://github.com/ttttonyhe/scholar-highlights) | [Safety at One Shot →](https://github.com/Kevin-Zh-CS/safety-at-one-shot) | [Activation Approximation-Aware Alignment →](https://github.com/Kevin-Zh-CS/QuadA) | [Adversarial Smart Contract Detection →](https://github.com/zju-abclab/LookAhead) | [Secure Inference →](https://github.com/zju-abclab/NEXUS) | [Stader Analytics →](https://github.com/ttttonyhe/stader-graph-dashboard) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
+[Tailspace →](https://github.com/ttttonyhe/tailspace) | [Autogrind →](https://github.com/ttttonyhe/autogrind) | [Scholar Highlights →](https://github.com/ttttonyhe/scholar-highlights) | [Safety at One Shot →](https://github.com/Kevin-Zh-CS/safety-at-one-shot) | [Activation Approximation-Aware Alignment →](https://github.com/Kevin-Zh-CS/QuadA) | [Stader Analytics →](https://github.com/ttttonyhe/stader-graph-dashboard) | [Snapaper →](https://github.com/Snapaper) | [ODraw →](https://github.com/ttttonyhe/odraw) | [ORedeem →](https://github.com/ttttonyhe/oredeem-nodejs)
